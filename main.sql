@@ -1,0 +1,3 @@
+DECLARE
+a:=&a;
+BEGIN
